@@ -45,3 +45,12 @@
 2. 找到代码最顶部的这一行：
    ```javascript
    const API_KEY = '';
+
+---
+
+## 推荐
+
+1. 刷课：https://github.com/VermiIIi0n/fuckZHS
+2. 答题：https://docs.ocsjs.com/
+(答题需要搭配题库使用,可以自己使用AI构建题库的配置,有不会的就问AI哦)
+3. 习惯：靠你自己啦
